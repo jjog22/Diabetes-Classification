@@ -6,8 +6,8 @@ In this dataset you have 3 different outputs:
 your treatment was not appropriate);
 3. A readmission in more than 30 days (this one is not so good as well the last
 one, however, the reason could be the state of the patient.
-The task is either to classify a patient-hospital outcome or to cluster them aiming at
-finding patterns that give a distinct insight.
+
+## The task is either to classify a patient-hospital outcome or to cluster them aiming at finding patterns that give a distinct insight.
 
 ## MODEL RESULT
 In this solution I applied AutoML solution from Azure to experiment and deliver a model in short time
